@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=Open+Source+Contributor+%7C+Full+Stack+%26+ML+Engineer;Building+AI+Powered+Web+Applications;Exploring+Azure+Cloud+and+Applied+AI" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrav-jally&show_icons=true&theme=transparent)
 
 ---
 
