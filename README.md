@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=PRs+Merged:+2;Issues+Fixed:+2;" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrav-jally&show_icons=true&theme=transparent)
-
 ---
 
 🎓 Information Technology Undergraduate @ CBIT Hyderabad  
@@ -83,6 +81,8 @@
 **Cloud & Tools:** Azure, GCP, Git, GitHub, Postman, Vercel, Netlify, OAuth 2.0, Agile  
 
 ---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrav-jally&show_icons=true&theme=transparent)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
