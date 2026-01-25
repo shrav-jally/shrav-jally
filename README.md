@@ -1,11 +1,8 @@
 # Hi 👋, I'm Shravya Jallepally  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=Open+Source+Contributor;PRs+Merged:+2;Issues+Fixed:+2;Active+Open+Source+Maintainer+%26+Contributor" />
 
-
-
-
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=PRs+Merged:+2;Issues+Fixed:+2;Active+Open+Source+Maintainer+%26+Contributor" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrav-jally&show_icons=true&theme=transparent)
 
