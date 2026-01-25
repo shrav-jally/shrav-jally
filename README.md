@@ -1,9 +1,8 @@
 # Hi 👋, I'm Shravya Jallepally  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=Open+Source+Contributor;PRs+Merged:+2;Issues+Fixed:+2;Active+Open+Source+Maintainer+%26+Contributor" />
 
-
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=Open+Source+Contributor;PRs+Merged:+2;Issues+Fixed:+2;Organizations+Contributed:+Multiple;Always+Contributing+%F0%9F%9A%80" />
 
 
 
