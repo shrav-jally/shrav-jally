@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-![PRs](https://img.shields.io/github/search/shrav-jally?label=Pull%20Requests&query=is%3Apr+author%3Ashrav-jally)
+![Snake animation](https://github.com/shrav-jally/shrav-jally/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrav-jally&show_icons=true&theme=transparent)
