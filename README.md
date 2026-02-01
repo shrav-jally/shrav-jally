@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=PRs+Merged:+2;Issues+Fixed:+2;" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=PRs+Merged:+3;Issues+Fixed:+3;" />
 
 ---
 
