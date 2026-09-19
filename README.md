@@ -1,5 +1,8 @@
 # Hi 👋, I'm Shravya Jallepally  
 
+
+[![Shrav's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrav-jally&show_icons=true&theme=radical)](https://github.com/shrav-jally/github-readme-stats)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=false&vCenter=true&width=900&lines=PRs+Merged:+3;Issues+Fixed:+3;" />
