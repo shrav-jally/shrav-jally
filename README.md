@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shravya Jallepally  
 
-[![Shravya's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shrav-jally&show_icons=true&theme=radical)](https://github.com/shrav-jally)
+[![Shravya's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=shrav-jally&show_icons=true&count_private=true&theme=radical)](https://github.com/shrav-jally)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header"/>
 
